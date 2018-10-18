@@ -16,7 +16,7 @@ I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh
 Real-Time Facial Expression Transformation for Monocular RGB Video  
 **Luming Ma**, Zhigang Deng  
 Computer Graphics Forum, 2018  
-[[pdf](https://lumingma.github.io/files/real-time-facial-transformation-for-monocular-rgb-video-final.pdf)] [[video](https://youtu.be/ocKJP1xzDEk)]
+[[paper](https://lumingma.github.io/files/real-time-facial-transformation-for-monocular-rgb-video-final.pdf)] [[video](https://youtu.be/ocKJP1xzDEk)]
 
 <br><br>
 
