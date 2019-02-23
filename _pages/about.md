@@ -11,7 +11,7 @@ redirect_from:
 I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh.edu/zdeng/) in the [Computer Graphics and Interactive Media Lab](http://graphics.cs.uh.edu/) at University of Houston. My research focus on computer graphics especially on facial reconstruction, expression transformation and transferring on monocular RGB camera.
 
 ## Publications
-<img src="https://lumingma.github.io/images/Real_time_Hierarchical_Facial_Performance_Capture_Final.jpg" width="200px" align="left" style="margin-right: 50px"/>
+<img src="https://lumingma.github.io/images/I3D-2019-face-capture.jpg" width="200px" align="left" style="margin-right: 50px"/>
 
 Real-time Hierarchical Facial Performance Capture  
 **Luming Ma**, Zhigang Deng  
