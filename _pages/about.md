@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh.edu/zdeng/) in the [Computer Graphics and Interactive Media Lab](http://graphics.cs.uh.edu/) at University of Houston. My research focus on computer graphics especially on facial reconstruction, expression transformation and transferring on monocular RGB camera.
+I'm a fourth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh.edu/zdeng/) in the [Computer Graphics and Interactive Media Lab](http://graphics.cs.uh.edu/) at University of Houston. My research focus on computer graphics especially on facial reconstruction, expression transformation and transferring on monocular RGB camera.  
+[[CV](https://lumingma.github.io/files/CV_LMA.pdf)]
 
 ## Publications
 <img src="https://lumingma.github.io/images/I3D-2019-face-capture.jpg" width="300px" align="left" style="margin-right: 30px"/>
