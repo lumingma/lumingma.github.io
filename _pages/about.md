@@ -17,7 +17,7 @@ I'm currently seeking for Summer Intern position as Software Engineer or Compute
 Real-time Hierarchical Facial Performance Capture  
 **Luming Ma**, Zhigang Deng  
 Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2019 (to appear)  
-[[paper](https://lumingma.github.io/files/Real_time_Hierarchical_Facial_Performance_Capture_Final.pdf)] [[video](https://youtu.be/KGm8TdrZRkk)]
+[[paper](https://lumingma.github.io/files/Real_time_Hierarchical_Facial_Performance_Capture.pdf)] [[video](https://youtu.be/KGm8TdrZRkk)]
 
 <br><br>
 
