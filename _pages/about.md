@@ -28,7 +28,7 @@ Real-Time Facial Expression Transformation for Monocular RGB Video
 Computer Graphics Forum, 2018  
 [[paper](https://lumingma.github.io/files/real-time-facial-transformation-for-monocular-rgb-video-final.pdf)] [[video](https://youtu.be/ocKJP1xzDEk)]
 
-<br><br>
+<br><br><br><br>  
 
 Intersession Reliability and Within-Session Stability of a Novel Perception-Action Coupling Task  
 Christopher Connaboy, Caleb D Johnson, Alice D LaGoy, Gert-Jan Pepping, Richard J Simpson, Zhigang Deng, **Luming Ma**, Joanne L Bower, Shawn R Eagle, Shawn D Flanagan, Candice A Alfano  
