@@ -32,7 +32,7 @@ Computer Graphics Forum, 2018
 
 <img src="" width="300px" align="left" style="margin-right: 30px"/>
 
-Intersession Reliability and Within-Session Stability of a Novel Perception-Action Coupling Task
+Intersession Reliability and Within-Session Stability of a Novel Perception-Action Coupling Task  
 Christopher Connaboy, Caleb D Johnson, Alice D LaGoy, Gert-Jan Pepping, Richard J Simpson, Zhigang Deng, **Luming Ma**, Joanne L Bower, Shawn R Eagle, Shawn D Flanagan, Candice A Alfano
 Aerospace medicine and human performance, 2019  
 [[paper](https://doi.org/10.3357/AMHP.5190.2019)]
