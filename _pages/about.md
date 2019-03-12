@@ -19,7 +19,7 @@ Real-time Hierarchical Facial Performance Capture
 Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), 2019 (to appear)  
 [[paper](https://lumingma.github.io/files/Real_time_Hierarchical_Facial_Performance_Capture.pdf)] [[video](https://youtu.be/KGm8TdrZRkk)]
 
-<br><br>
+<br>
 
 <img src="https://lumingma.github.io/images/neutral2happy.png" width="300px" align="left" style="margin-right: 30px"/>
 
