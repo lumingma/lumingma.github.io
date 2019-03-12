@@ -34,7 +34,6 @@ Intersession Reliability and Within-Session Stability of a Novel Perception-Acti
 Christopher Connaboy, Caleb D Johnson, Alice D LaGoy, Gert-Jan Pepping, Richard J Simpson, Zhigang Deng, **Luming Ma**, Joanne L Bower, Shawn R Eagle, Shawn D Flanagan, Candice A Alfano  
 Aerospace medicine and human performance, 2019  [[paper](https://doi.org/10.3357/AMHP.5190.2019)]  
 
-<br>
 
 ## Teaching
 COSC4370-Interactive Computer Graphics (lectures on OpenGL Programming, CUDA Programming, Images and Perspective), Fall 2018  
