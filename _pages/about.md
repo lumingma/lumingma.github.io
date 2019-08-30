@@ -35,5 +35,5 @@ Aerospace medicine and human performance, 2019  [[paper](https://doi.org/10.3357
 
 
 ## Teaching
-COSC4370-Interactive Computer Graphics (lectures on OpenGL Programming, CUDA Programming, Images and Perspective), Fall 2018  
+COSC4370-Interactive Computer Graphics (lectures on OpenGL Programming, CUDA Programming, Images and Perspective), Fall 2019, 2018  
 COSC6372-Computer Graphics (lectures on OpenGL Programming), Spring 2017
