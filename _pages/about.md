@@ -12,7 +12,6 @@ I'm a fifth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh.
 
 ## Publications
 <img src="https://lumingma.github.io/images/face_swapping.jpg" width="300px" align="left" style="margin-right: 30px"/>
-
 Real-time Face Video Swapping From A Single Portrait  
 **Luming Ma**, Zhigang Deng  
 Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), San Francisco, CA, May 2020  
@@ -34,7 +33,7 @@ Real-Time Facial Expression Transformation for Monocular RGB Video
 Computer Graphics Forum, 38.1, 2019, pp. 470-481 
 [[paper](https://lumingma.github.io/files/real-time-facial-transformation-for-monocular-rgb-video-final.pdf)] [[video](https://youtu.be/ocKJP1xzDEk)]
 
-<br><br>
+<br><br><br><br>
 
 Intersession Reliability and Within-Session Stability of a Novel Perception-Action Coupling Task  
 Christopher Connaboy, Caleb D Johnson, Alice D LaGoy, Gert-Jan Pepping, Richard J Simpson, Zhigang Deng, **Luming Ma**, Joanne L Bower, Shawn R Eagle, Shawn D Flanagan, Candice A Alfano  
