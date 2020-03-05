@@ -15,7 +15,7 @@ I'm a fifth year Ph.D student working with [Zhigang Deng](http://graphics.cs.uh.
 Real-time Face Video Swapping From A Single Portrait  
 **Luming Ma**, Zhigang Deng  
 Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), San Francisco, CA, May 2020  
-[[paper](https://lumingma.github.io/files/Real_time_Face_Video_Swapping_From_A_Single_Portrait_Final.pdf)] [[video](https://youtu.be/L6vYxsRfaBg)]
+[[paper](https://lumingma.github.io/files/Real_time_Face_Video_Swapping_From_A_Single_Portrait_Final.pdf)] [[video](https://youtu.be/MYEqzv-hApk)]
 
 
 <img src="https://lumingma.github.io/images/I3D-2019-face-capture.jpg" width="300px" align="left" style="margin-right: 30px"/>
