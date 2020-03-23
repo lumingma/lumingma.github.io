@@ -23,7 +23,7 @@ Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), San 
 Real-time Hierarchical Facial Performance Capture  
 **Luming Ma**, Zhigang Deng  
 Proc. of ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D), Montreal, QC, Canada, May 2019  
-[[paper](https://lumingma.github.io/files/Real_time_Hierarchical_Facial_Performance_Capture.pdf)] [[video](https://youtu.be/KGm8TdrZRkk)]
+[[paper](https://lumingma.github.io/files/Real_time_Hierarchical_Facial_Performance_Capture.pdf)] [[video](https://youtu.be/ut_1uMpboJM)]
 
 
 <img src="https://lumingma.github.io/images/neutral2happy.png" width="300px" align="left" style="margin-right: 30px"/>
